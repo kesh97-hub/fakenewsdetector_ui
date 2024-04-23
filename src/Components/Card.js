@@ -26,7 +26,7 @@ export default function OutlinedCard() {
 
   const [news_model, setNewsModel] = useState({
     "news": '',
-    "label": ''
+    "label": 'true'
   });
   
   const [buttonState, updateButtonState] = useState(true)
@@ -52,8 +52,7 @@ export default function OutlinedCard() {
                       defaultValue=""
                       fullWidth
                       onChange={(event) => {
-                        setNewsModel({...news_model, label: ''})
-                        setNewsModel({...news_model, news: event.target.value});
+                        setNewsModel({...news_model, news: event.target.value, label: ''});
                       }}
                       />
           </CardContent>
