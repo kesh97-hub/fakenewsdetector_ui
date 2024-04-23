@@ -26,7 +26,7 @@ export default function OutlinedCard() {
 
   const [news_model, setNewsModel] = useState({
     "news": '',
-    "label": 'true'
+    "label": ''
   });
   
   const [buttonState, updateButtonState] = useState(true)
