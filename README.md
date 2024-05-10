@@ -19,3 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+<img width="638" alt="image" src="https://github.com/kesh97-hub/fakenewsdetector_ui/assets/99744004/bdfeea13-2e71-44ca-9d32-47093acf74ec">
+
