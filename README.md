@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `python main.py`
+### `python backend.py`
 
 Run the backend server for the app.
 
