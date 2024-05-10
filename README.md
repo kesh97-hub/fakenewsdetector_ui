@@ -8,7 +8,9 @@ In the project directory, you can run:
 
 ### `python backend.py`
 
-Run the backend server for the app.
+Run the backend server for the app.\
+
+Before starting the server, trained model weights and glove embeddings can be downloaded from: https://drive.google.com/drive/folders/1AhXp85edIC7Ce5q872JVNfL-Os_NgT1X?usp=sharing
 
 ### `npm start`
 
